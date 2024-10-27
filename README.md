@@ -1,4 +1,4 @@
-## Online Shop Berbasis Website (Laravel)
+## Online Shop Berbasis Website (Laravel) "php": ">=5.5.9"
 
 ### Deskripsi
 
